@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "570f9d95061ead3f",
+        "id": "33ca2faea2c91876",
         "type": "tabs",
         "children": [
           {
-            "id": "0134ee175576963d",
+            "id": "195ddc3118b5e0cd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -69,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 296.5
   },
   "right": {
     "id": "4b1a5993dfa265d8",
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "README.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,6 +138,34 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "0134ee175576963d",
-  "lastOpenFiles": []
+  "active": "195ddc3118b5e0cd",
+  "lastOpenFiles": [
+    "总结整理/Redis-整理总结20230829.md",
+    "总结整理/多线程-整理总结20210316.md",
+    "总结整理/分布式缓存.md",
+    "总结整理/分布式面试题-20190827.md",
+    "总结整理/集合类-整理总结20210315.md",
+    "总结整理/消息队列-总结整理20190827.md",
+    "总结整理/设计模式-20210608.md",
+    "总结整理/Java基础面试题-20210608.md",
+    "总结整理/整体性学习模板2.0.md",
+    "总结整理/JVM-整理总结20210412.md",
+    "总结整理/MySQL-整理总结20230727.md",
+    "总结整理/Spring-整理总结20210511.md",
+    "总结整理/asset/消息队列-总结整理20190827-幕布图片-531175-49203.jpg",
+    "总结整理/asset/消息队列-总结整理20190827-幕布图片-291568-366008.jpg",
+    "总结整理/asset/消息队列-总结整理20190827-幕布图片-999945-168680.jpg",
+    "总结整理/asset/消息队列-总结整理20190827-幕布图片-722761-586559.jpg",
+    "总结整理/asset/消息队列-总结整理20190827-幕布图片-605601-531284.jpg",
+    "总结整理/asset/集合类-整理总结20210315-幕布图片-181467-930710.jpg",
+    "总结整理/asset/集合类-整理总结20210315-幕布图片-393037-514756.jpg",
+    "总结整理/asset/分布式面试题-20190827-幕布图片-855653-759723.jpg",
+    "总结整理/asset/分布式面试题-20190827-幕布图片-55480-974623.jpg",
+    "总结整理/asset/分布式面试题-20190827-幕布图片-12095-959546.jpg",
+    "总结整理/asset",
+    "总结整理/新建文件夹",
+    "README.md",
+    "总结整理",
+    "未命名.md"
+  ]
 }
